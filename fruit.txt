@@ -2,3 +2,4 @@ apple
 pear
 lemon
 cherry
+strawberry
